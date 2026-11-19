@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="XANAREAGENTS_SHOW" header="XANAREAGENTS">
+		XanaReagents_ToggleWindow()
+	</Binding>
+</Bindings>

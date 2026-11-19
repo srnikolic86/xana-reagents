@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: XanaReagents
+## Notes: Item tooltips on crafting reagents show which professions use them and what they make. Bind a key in Options to open the full list for the item in the tooltip.
+## Author: Srdan Nikolic
+## Version: 0.2.0
+## Category: Xana
+
+Data.lua
+XanaReagents.lua
